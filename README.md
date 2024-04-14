@@ -1,4 +1,5 @@
 code-alpha-credit-score
+
 A credit score is a three-digit number that rates your creditworthiness. FICO scores range from 300 to 850. The higher the score, the more likely you are to get approved for loans and for better rates.
 
 A credit score is based on your credit history, which includes information like the number accounts, total levels of debt, repayment history, and other factors. Lenders use credit scores to evaluate your credit worthiness, or the likelihood that you will repay loans in a timely manner. How Credit Scores Work
